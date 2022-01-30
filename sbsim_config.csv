@@ -1,0 +1,11 @@
+how_many_springs,100
+block_mass,0.1
+block_length,0.1
+spring_length,0.1
+gravity,9.8
+spring_const,13.706
+static_friction,0.3
+dynamic_friction,0.1
+quake_howmany,10000
+pull_1st_block_range,0.001
+quake_sim_dt,0.001
